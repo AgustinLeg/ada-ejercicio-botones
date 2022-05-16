@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title{
+  font-size: 40px;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cards__container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
