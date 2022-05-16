@@ -10,8 +10,8 @@
 - EXTRA - Mostrar la cantidad de estrellas que tiene el boton con un maximo de 5 ⭐️
 
 ## Imagenes de las estrellas
-[✩](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/A_star.png/1273px-A_star.png?20180331164316)
-[⭐️](https://www.freeiconspng.com/downloadimg/33907)
+- [✩ Sin completar](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/A_star.png/1273px-A_star.png?20180331164316)
+- [⭐️ Completa](https://www.freeiconspng.com/downloadimg/33907)
 
 
 
