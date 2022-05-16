@@ -1,4 +1,4 @@
-import HalfStar from "../../assets/half-star.png";
+import EmptyStar from "../../assets/half-star.png";
 import FullStar from "../../assets/full-star.png";
 import "./Card.css";
 
@@ -13,7 +13,7 @@ const Card = ({ button }) => {
         {totalStars.map((star) => (
           <img
             key={star}
-            src={star <= button.stars ? FullStar : HalfStar}
+            src={star <= button.stars ? FullStar : EmptyStar}
             alt="star"
             width="25px"
           />
